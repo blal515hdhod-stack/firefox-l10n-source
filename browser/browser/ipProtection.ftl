@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Use our new <a data-l10n-name="l
 ipprotection-feature-introduction-title-privacy = Add another layer of privacy
 ipprotection-feature-introduction-title-privacy-1 = Add another layer of privacy with built-in VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }’s built-in VPN</a> helps protect your browsing. Choose from several locations to keep where you browse more private.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }’s built-in VPN</a> helps protect your browsing. Choose from multiple locations to keep where you browse more private.
 ipprotection-feature-introduction-link-text-privacy-3 = Get <a data-l10n-name="learn-more-vpn">extra privacy</a> by choosing from multiple locations to hide where you browse.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set the VPN on or off for certain sites.
@@ -40,8 +39,6 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Use our new <a 
 ipprotection-feature-introduction-description-private-browsing = Browse with extra protection by hiding your location, even when you’re in a Private Window.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-3 = Help hide your location as you browse. Set rules to turn on VPN when you want <a data-l10n-name="learn-more-vpn">extra privacy</a> or location-based browsing, and off when you don’t.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Help hide your location as you browse. Set rules to turn on VPN for <a data-l10n-name="learn-more-vpn">extra privacy</a> or location-based browsing, and off where you don’t.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set rules to turn on the VPN for extra privacy or location-based browsing, and off where you don’t.
 ipprotection-feature-introduction-title-captive-portal = On public Wi-Fi? Try { -brand-product-name }’s built-in VPN.
@@ -128,7 +125,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dismiss
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Get unlimited VPN until January 30
 ipprotection-holiday-promo-description = Make your browsing private and harder to trace with built-in VPN.
 ipprotection-holiday-promo-primary-button = Open VPN
 ipprotection-holiday-promo-secondary-button = Dismiss

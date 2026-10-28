@@ -1508,6 +1508,9 @@ fire-button-panel-confirm-button =
     .label = Delete all
     .accesskey = D
 fire-button-panel-complete = Browsing data deleted
+fire-button-toolbar-button2 =
+    .label = Delete some or all data
+    .tooltiptext = Delete some or all of your browsing data
 
 ## Autorefresh blocker
 

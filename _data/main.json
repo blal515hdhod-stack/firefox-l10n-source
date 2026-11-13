@@ -717,6 +717,7 @@
     "action-log-searched-web",
     "action-log-searching-web-with-exa",
     "action-log-searched-web-with-exa",
+    "action-log-searched-and-answered-with-exa",
     "action-log-checking-memories",
     "action-log-checked-memories",
     "action-log-searching-settings",
@@ -3209,8 +3210,8 @@
     "mini-window-overlay-header",
     "mini-window-overlay-instructions",
     "mini-window-panel-header",
-    "mini-window-panel-move-selection",
-    "mini-window-panel-move-full-tab"
+    "mini-window-panel-part-of-page",
+    "mini-window-panel-full-page"
   ],
   "browser/browser/newtab/asrouter.ftl": [
     "cfr-doorhanger-extension-heading",
